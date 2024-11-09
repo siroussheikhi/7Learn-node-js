@@ -1,0 +1,20 @@
+{
+  "name": "contactslist",
+  "version": "1.0.0",
+  "description": "Contact List",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siroussheikhi/7Learn-node-js.git"
+  },
+  "author": "sheikhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siroussheikhi/7Learn-node-js/issues"
+  },
+  "homepage": "https://github.com/siroussheikhi/7Learn-node-js#readme"
+}
